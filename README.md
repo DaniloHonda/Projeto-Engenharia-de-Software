@@ -25,4 +25,4 @@ Este repositório contém o trabalho realizado pelo grupo na matéria de Engenha
 
 ---
 
-### Para saber mais acesse a wiki!
+### Para saber mais acesse a wiki ou acesse o excalidraw: https://excalidraw.com/#json=kTGJk9Fby362MglUSxQld,qRHGenOAS_LqM_X1Td5rlw
