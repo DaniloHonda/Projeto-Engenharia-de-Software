@@ -14,6 +14,9 @@ Este repositório contém o trabalho realizado pelo grupo na matéria de Engenha
 
 ---
 
+<img src="https://github.com/user-attachments/assets/5ab0d61d-0cb7-42f3-aebe-f0dffbdd8621" width="500">
+
+---
 ## Grupo
 
 | Nome                          | Matrícula  |
