@@ -4,6 +4,12 @@ Bem-vindo ao repositório oficial do **Projeto de Engenharia de Software**, dese
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ab0d61d-0cb7-42f3-aebe-f0dffbdd8621" width="500" />
+</p>
+
+---
+
 ## Sobre o Projeto
 
 Este repositório contém o trabalho realizado pelo grupo na matéria de Engenharia de Software, com foco em desenvolver uma solução para viagens de curto período. Aqui você encontrará a documentação e recursos relacionados ao projeto.
@@ -14,9 +20,6 @@ Este repositório contém o trabalho realizado pelo grupo na matéria de Engenha
 
 ---
 
-<img src="https://github.com/user-attachments/assets/5ab0d61d-0cb7-42f3-aebe-f0dffbdd8621" width="500">
-
----
 ## Grupo
 
 | Nome                          | Matrícula  |
