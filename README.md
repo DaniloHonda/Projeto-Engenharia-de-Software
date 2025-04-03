@@ -5,7 +5,7 @@ Bem-vindo ao repositório oficial do **Projeto de Engenharia de Software**, dese
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ab0d61d-0cb7-42f3-aebe-f0dffbdd8621" width="500" />
+  <img src="https://github.com/user-attachments/assets/e56ee778-0f9e-41a8-b3d0-8c2624fb33f4" width="500" />
 </p>
 
 ---
